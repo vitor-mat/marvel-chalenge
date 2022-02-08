@@ -26,7 +26,7 @@ const SearchPage: NextPage = () => {
   }
 
   const clearInput = () => {
-    setApiParamName("")
+    setInputData("")
   }
 
   return (

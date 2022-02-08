@@ -64,7 +64,7 @@ const SearchParamsPage: NextPage = ({ charactersData, id }: any) => {
   }
 
   const clearInput = () => {
-    setApiParamName("")
+    setInputData("")
   }
 
 
