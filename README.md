@@ -1,6 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Marvel Challenge
 
-## Getting Started
+challenge to consume marvel api with typescript and Next Js.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+## SUMÁRIO
+
+- Status
+- Features
+- Application Demo
+- Prerequisites to Run the Application
+- How to Run the Application
+- Tecnologias Utilizadas
+- Author
+
+## Status
+
+✨Ready for presentation ✨
+
+## Features
+
+- Pagination with all characters, comics, events, creators and stories
+- Search for characters
+- Reponsive WebSite
+- 404 Page
+
+## Application Demo
+
+### Marvel Desktop
+
+<img alt="marvel desktop image 1" src="./readme_files/marvel_desktop_1.png"/>
+
+
+### Marvel Mobile
+
+<img alt="marvel mobile image 1" src="./readme_files/marvel_mobile_1.png"/>
+
+## Prerequisites to Run the Application
+
+You need to have Node installed on your machine.
+
+## How to Run the Application
 
 First, run the development server:
 
@@ -12,23 +52,16 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Tecnologias Utilizadas
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [Styled-components](https://styled-components.com/docs)
+- [Next Js](https://nextjs.org/docs/getting-started)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Author
 
-## Learn More
+<img alt="author photo" src="./readme_files/vitor.jpg" width="250">
 
-To learn more about Next.js, take a look at the following resources:
+Made By Vitor Mateus
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_dev_/) [![linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mateus-2a42461a2/)
