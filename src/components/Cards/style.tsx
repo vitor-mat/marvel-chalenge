@@ -5,14 +5,6 @@ export const MaxWidthSection = styled.div`
   height: calc(100vh - 127px);
   display: flex;
   justify-content: center;
-  position: relative;
-
-  img{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    opacity: .7;
-  }
 `
 
 export const Container = styled.div`
@@ -34,6 +26,12 @@ export const Container = styled.div`
     position: absolute;
     bottom: 60px;
     right: 60px;
+  }
+
+  @media (max-width: 550px){
+    img{
+      display: none;
+    }
   }
 
 `
